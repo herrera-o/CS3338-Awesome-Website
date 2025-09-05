@@ -1,0 +1,51 @@
+commit a4008dfc20c15652e19ac0bf63a8cf9073a39f1c
+Merge: fc4cf5b 6649905
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:39:49 2025 -0700
+
+    fix
+
+commit 6649905b330dabba71e4f085f4ae937283656195
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:34:48 2025 -0700
+
+    Added favorite game.
+
+commit fc4cf5bf71f23ebf68399d983cde81d71b8cc047
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:27:12 2025 -0700
+
+    Added my favorite food.
+
+commit 646c95b19dc993223395446240551196706a36d9
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:25:35 2025 -0700
+
+    Added some divs to index.html
+
+commit 0d17aad8060e35bc460a9a0da761bdb5c9be96a4
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:19:36 2025 -0700
+
+    Create README.md
+
+commit 224561106c96ba61d591088c87cd79a1e63361d9
+Merge: 1d2bfc0 6da8be8
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:13:22 2025 -0700
+
+    Merge pull request #1 from herrera-o/info-fill
+    
+    filled in the blanks.
+
+commit 6da8be8c5f9b7ad9e1657259ff24540f8bc7d48c
+Author: Oscar Herrera <herrera_o@outlook.com>
+Date:   Thu Sep 4 19:08:22 2025 -0700
+
+    filled in the blanks.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
